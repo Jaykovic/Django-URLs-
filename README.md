@@ -1,9 +1,6 @@
 # Django-URLs-
 
 Task Title: Django{URLs}
-Full Time
-Fullstack
-Created 12-06-2022 21:09:43
 
 Create a new GitHub repository with a README.md, and Python .gitignore file.
 
@@ -40,5 +37,3 @@ Ensure your final code/submission is on the default branch of your GitHub reposi
 
 Screenshot of the zuri-admin login page:
 
-
-![django_zuri](https://user-images.githubusercontent.com/65573250/174457209-9372a5c2-cbc4-4afc-84a3-8f9971cb8152.png)
